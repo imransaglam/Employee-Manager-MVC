@@ -1,0 +1,850 @@
+﻿++Çözüm 'EmployeManager.MVC' ‎(1 / 1 proje)
+i:{00000000-0000-0000-0000-000000000000}:EmployeManager.MVC.sln
+++EmployeManager.MVC
+i:{00000000-0000-0000-0000-000000000000}:EmployeManager.MVC
+++Bağımlılıklar
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1096
+++Connected Services 
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1097
+++Properties
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\properties\
+++launchSettings.json
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\properties\launchsettings.json
+++wwwroot
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\
+++Scripts
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\
+++Styles
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\styles\
+++site.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\styles\site.css
+++Controllers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\controllers\
+++EmployeeMangerController.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\controllers\employeemangercontroller.cs
+++SecurityController.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\controllers\securitycontroller.cs
+++Models
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\
+++AppDbContext.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\appdbcontext.cs
+++Country.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\country.cs
+++Employee.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\employee.cs
+++Register.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\register.cs
+++SignIn.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\models\signin.cs
+++Security
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\security\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\security\
+++AppIdentityDbContext.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\security\appidentitydbcontext.cs
+++AppIdentityRole.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\security\appidentityrole.cs
+++AppIdentityUser.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\security\appidentityuser.cs
+++Views
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\
+++EmployeeManager
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\employeemanager\
+++Delete.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\employeemanager\delete.cshtml
+++Insert.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\employeemanager\insert.cshtml
+++List.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\employeemanager\list.cshtml
+++Update.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\employeemanager\update.cshtml
+++AccessDenied.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\security\accessdenied.cshtml
+++Register.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\security\register.cshtml
+++SignIn.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\security\signin.cshtml
+++Shared
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\shared\
+++_Layout.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\shared\_layout.cshtml
+++_ViewImports.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\views\_viewstart.cshtml
+++appsettings.json
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\appsettings.json
+++Program.cs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\program.cs
+++Çerçeveler
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:çerçeveler
+++Çözümleyiciler
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:çözümleyiciler
+++Paketler
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:paketler
+++Hizmet bağımlılığı bulunamadı
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1098
+++jquery-validation-1.19.3
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\
+++jquery.validate.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery.validate.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\jquery.validate.js
+++jquery-3.6.0.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-3.6.0.js
+++jquery-validation-1.19.3.zip
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3.zip
+++appsettings.Development.json
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\appsettings.development.json
+++Microsoft.AspNetCore.App
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\microsoft.netcore.app
+++Microsoft.AspNetCore.Analyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNet.Identity.Core (2.2.3)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1112
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1113
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1109
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1111
+++Microsoft.EntityFrameworkCore.Relational (6.0.5)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1114
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:>1110
+++demo
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\
+++dist
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\
+++lib
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\
+++src
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\
+++test
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\
+++Gruntfile.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\gruntfile.js
+++package.json
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\package.json
+++README.md
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\readme.md
+++jquery.validate.unobtrusive.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery.validate.unobtrusive.js
+++bootstrap
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\bootstrap\
+++captcha
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\
+++cinema
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\cinema\
+++css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\
+++images
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\images\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\images\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\
+++login
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\
+++marketo
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\
+++milk
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\
+++multipart
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\multipart\
+++requirejs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\requirejs\
+++semantic-ui
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\semantic-ui\
+++tinymce
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\
+++tinymce4
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce4\
+++ajaxSubmit-integration-demo.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\ajaxsubmit-integration-demo.html
+++custom-messages-data-demo.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\custom-messages-data-demo.html
+++custom-methods-demo.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\custom-methods-demo.html
+++dynamic-totals.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\dynamic-totals.html
+++errorcontainer-demo.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\errorcontainer-demo.html
+++errors-within-labels.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\errors-within-labels.html
+++file_input.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\file_input.html
+++index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\bootstrap\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\cinema\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\multipart\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\requirejs\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\semantic-ui\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\index.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce4\index.html
+++jquerymobile.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\jquerymobile.html
+++radio-checkbox-select-demo.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\radio-checkbox-select-demo.html
+++site-demos.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\site-demos.css
+++themerollered.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\themerollered.html
+++localization
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\
+++additional-methods.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\additional-methods.js
+++jquery.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.js
+++jquery.mockjax-1.5.3.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.mockjax-1.5.3.js
+++jquery.mockjax-2.2.1.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.mockjax-2.2.1.js
+++jquery-1.11.1.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery-1.11.1.js
+++jquery-1.7.2.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery-1.7.2.js
+++jquery-1.8.3.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery-1.8.3.js
+++jquery-1.9.1.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery-1.9.1.js
+++jquery-3.1.1.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery-3.1.1.js
+++require.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\require.js
+++additional
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\additional\
+++ajax.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\ajax.js
+++core.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\core.js
+++aria.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\aria.js
+++error-placement.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\error-placement.js
+++messages.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\messages.js
+++methods.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\methods.js
+++rules.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\rules.js
+++test.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\test.js
+++index-bs4.html
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\bootstrap\index-bs4.html
+++fonts
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\fonts\
+++captcha.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\captcha.js
+++image_req.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\image_req.php
+++index.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\index.php
+++newsession.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\newsession.php
+++process.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\process.php
+++rand.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\rand.php
+++style.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\style.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\multipart\style.css
+++plan_9.jpg
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\cinema\plan_9.jpg
+++refer_madness.jpg
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\cinema\refer_madness.jpg
+++saucer_men.jpg
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\cinema\saucer_men.jpg
+++cmxform.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\cmxform.css
+++cmxformTemplate.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\cmxformtemplate.css
+++core.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\core.css
+++reset.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\reset.css
+++screen.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\css\screen.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\screen.css
+++bg.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\bg.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\bg.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\images\bg.gif
+++checked.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\checked.gif
+++cmxform-divider.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\cmxform-divider.gif
+++cmxform-fieldset.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\cmxform-fieldset.gif
+++loading.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\loading.gif
+++unchecked.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\images\unchecked.gif
+++jquery.maskedinput.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\jquery.maskedinput.js
+++mktSignup.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\mktsignup.js
+++step2.htm
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\step2.htm
+++stylesheet.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\stylesheet.css
+++left_white.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\left_white.png
+++milk.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\milk.css
+++milk.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\milk.png
+++right_white.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\milk\right_white.png
+++app.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\requirejs\app.js
+++themes
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\
+++tiny_mce.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\tiny_mce.js
+++messages_ar.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ar.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ar.js
+++messages_az.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_az.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_az.js
+++messages_bg.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_bg.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_bg.js
+++messages_bn_BD.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_bn_bd.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_bn_bd.js
+++messages_ca.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ca.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ca.js
+++messages_cs.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_cs.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_cs.js
+++messages_da.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_da.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_da.js
+++messages_de.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_de.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_de.js
+++messages_el.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_el.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_el.js
+++messages_es.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_es.js
+++messages_es_AR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es_ar.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_es_ar.js
+++messages_es_PE.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es_pe.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_es_pe.js
+++messages_et.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_et.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_et.js
+++messages_eu.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_eu.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_eu.js
+++messages_fa.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fa.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_fa.js
+++messages_fi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_fi.js
+++messages_fr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_fr.js
+++messages_ge.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ge.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ge.js
+++messages_gl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_gl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_gl.js
+++messages_he.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_he.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_he.js
+++messages_hr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_hr.js
+++messages_hu.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hu.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_hu.js
+++messages_hy_AM.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hy_am.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_hy_am.js
+++messages_id.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_id.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_id.js
+++messages_is.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_is.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_is.js
+++messages_it.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_it.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_it.js
+++messages_ja.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ja.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ja.js
+++messages_ka.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ka.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ka.js
+++messages_kk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_kk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_kk.js
+++messages_ko.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ko.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ko.js
+++messages_lt.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_lt.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_lt.js
+++messages_lv.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_lv.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_lv.js
+++messages_mk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_mk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_mk.js
+++messages_my.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_my.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_my.js
+++messages_nl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_nl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_nl.js
+++messages_no.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_no.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_no.js
+++messages_pl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_pl.js
+++messages_pt_BR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pt_br.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_pt_br.js
+++messages_pt_PT.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pt_pt.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_pt_pt.js
+++messages_ro.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ro.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ro.js
+++messages_ru.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ru.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ru.js
+++messages_sd.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sd.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sd.js
+++messages_si.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_si.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_si.js
+++messages_sk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sk.js
+++messages_sl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sl.js
+++messages_sr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sr.js
+++messages_sr_lat.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sr_lat.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sr_lat.js
+++messages_sv.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sv.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_sv.js
+++messages_th.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_th.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_th.js
+++messages_tj.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_tj.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_tj.js
+++messages_tr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_tr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_tr.js
+++messages_uk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_uk.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_uk.js
+++messages_ur.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ur.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_ur.js
+++messages_vi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_vi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_vi.js
+++messages_zh.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_zh.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_zh.js
+++messages_zh_TW.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_zh_tw.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\messages_zh_tw.js
+++methods_de.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_de.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_de.js
+++methods_es_CL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_es_cl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_es_cl.js
+++methods_fi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_fi.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_fi.js
+++methods_it.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_it.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_it.js
+++methods_nl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_nl.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_nl.js
+++methods_pt.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_pt.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\localization\methods_pt.js
+++additional-methods.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\jquery.validate.min.js
+++jquery.form.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.form.js
+++jquery.mockjax.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.mockjax.js
+++jquery.simulate.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\lib\jquery.simulate.js
+++abaRoutingNumber.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\abaroutingnumber.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\additional\abaroutingnumber.js
+++accept.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\accept.js
+++additional.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\additional.js
+++alphanumeric.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\alphanumeric.js
+++bankaccountNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\bankaccountnl.js
+++bankorgiroaccountNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\bankorgiroaccountnl.js
+++bic.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\bic.js
+++cifES.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\cifes.js
+++cnhBR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\cnhbr.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\additional\cnhbr.js
+++cnpjBR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\cnpjbr.js
+++cpfBR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\cpfbr.js
+++creditcard.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\creditcard.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\additional\creditcard.js
+++creditcardtypes.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\creditcardtypes.js
+++currency.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\currency.js
+++dateFA.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\datefa.js
+++dateITA.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\dateita.js
+++dateNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\datenl.js
+++extension.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\extension.js
+++giroaccountNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\giroaccountnl.js
+++greaterThan.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\greaterthan.js
+++greaterThanEqual.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\greaterthanequal.js
+++iban.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\iban.js
+++integer.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\integer.js
+++ipv4.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\ipv4.js
+++ipv6.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\ipv6.js
+++lessThan.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\lessthan.js
+++lessThanEqual.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\lessthanequal.js
+++lettersonly.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\lettersonly.js
+++letterswithbasicpunc.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\letterswithbasicpunc.js
+++maxfiles.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\maxfiles.js
+++maxsize.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\maxsize.js
+++maxsizetotal.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\maxsizetotal.js
+++mobileNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\mobilenl.js
+++mobileRU.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\mobileru.js
+++mobileUK.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\mobileuk.js
+++netmask.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\netmask.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\test\additional\netmask.js
+++nieES.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\niees.js
+++nifES.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\nifes.js
+++nipPL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\nippl.js
+++nisBR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\nisbr.js
+++notEqualTo.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\notequalto.js
+++nowhitespace.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\nowhitespace.js
+++pattern.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\pattern.js
+++phoneNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\phonenl.js
+++phonePL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\phonepl.js
+++phonesUK.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\phonesuk.js
+++phoneUK.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\phoneuk.js
+++phoneUS.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\phoneus.js
+++postalcodeBR.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\postalcodebr.js
+++postalCodeCA.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\postalcodeca.js
+++postalcodeIT.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\postalcodeit.js
+++postalcodeNL.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\postalcodenl.js
+++postcodeUK.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\postcodeuk.js
+++require_from_group.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\require_from_group.js
+++skip_or_fill_minimum.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\skip_or_fill_minimum.js
+++statesUS.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\statesus.js
+++strippedminlength.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\strippedminlength.js
+++time.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\time.js
+++time12h.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\time12h.js
+++url2.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\url2.js
+++vinUS.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\vinus.js
+++zipcodeUS.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\zipcodeus.js
+++ziprange.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\src\additional\ziprange.js
+++Anorexia.ttf
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\fonts\anorexia.ttf
+++button.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\images\button.png
+++image.php
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\captcha\images\image.php
+++header1.jpg
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\images\header1.jpg
+++page.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\images\page.gif
+++required_star.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\login\images\required_star.gif
+++back_green-fade.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\back_green-fade.gif
+++back_nav_blue.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\back_nav_blue.gif
+++backRequiredGray.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\backrequiredgray.gif
+++blank.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\blank.gif
+++button-submit.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\button-submit.gif
+++favicon.ico
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\favicon.ico
+++help.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\help.png
+++left-nav-callout-long.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\left-nav-callout-long.png
+++login-sprite.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\login-sprite.gif
+++logo_marketo.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\logo_marketo.gif
+++sf.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\sf.png
+++step1-24.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\step1-24.gif
+++step2-24.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\step2-24.gif
+++step3-24.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\step3-24.gif
+++tab_green.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\tab_green.gif
+++tab-sprite.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\tab-sprite.gif
+++time.png
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\time.png
+++toggle.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\toggle.gif
+++warning.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\marketo\images\warning.gif
+++simple
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\
+++messages_ar.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ar.min.js
+++messages_az.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_az.min.js
+++messages_bg.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_bg.min.js
+++messages_bn_BD.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_bn_bd.min.js
+++messages_ca.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ca.min.js
+++messages_cs.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_cs.min.js
+++messages_da.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_da.min.js
+++messages_de.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_de.min.js
+++messages_el.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_el.min.js
+++messages_es.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es.min.js
+++messages_es_AR.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es_ar.min.js
+++messages_es_PE.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_es_pe.min.js
+++messages_et.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_et.min.js
+++messages_eu.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_eu.min.js
+++messages_fa.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fa.min.js
+++messages_fi.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fi.min.js
+++messages_fr.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_fr.min.js
+++messages_ge.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ge.min.js
+++messages_gl.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_gl.min.js
+++messages_he.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_he.min.js
+++messages_hr.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hr.min.js
+++messages_hu.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hu.min.js
+++messages_hy_AM.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_hy_am.min.js
+++messages_id.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_id.min.js
+++messages_is.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_is.min.js
+++messages_it.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_it.min.js
+++messages_ja.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ja.min.js
+++messages_ka.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ka.min.js
+++messages_kk.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_kk.min.js
+++messages_ko.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ko.min.js
+++messages_lt.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_lt.min.js
+++messages_lv.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_lv.min.js
+++messages_mk.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_mk.min.js
+++messages_my.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_my.min.js
+++messages_nl.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_nl.min.js
+++messages_no.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_no.min.js
+++messages_pl.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pl.min.js
+++messages_pt_BR.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pt_br.min.js
+++messages_pt_PT.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_pt_pt.min.js
+++messages_ro.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ro.min.js
+++messages_ru.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ru.min.js
+++messages_sd.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sd.min.js
+++messages_si.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_si.min.js
+++messages_sk.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sk.min.js
+++messages_sl.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sl.min.js
+++messages_sr.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sr.min.js
+++messages_sr_lat.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sr_lat.min.js
+++messages_sv.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_sv.min.js
+++messages_th.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_th.min.js
+++messages_tj.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_tj.min.js
+++messages_tr.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_tr.min.js
+++messages_uk.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_uk.min.js
+++messages_ur.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_ur.min.js
+++messages_vi.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_vi.min.js
+++messages_zh.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_zh.min.js
+++messages_zh_TW.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\messages_zh_tw.min.js
+++methods_de.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_de.min.js
+++methods_es_CL.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_es_cl.min.js
+++methods_fi.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_fi.min.js
+++methods_it.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_it.min.js
+++methods_nl.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_nl.min.js
+++methods_pt.min.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\dist\localization\methods_pt.min.js
+++img
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\img\
+++langs
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\langs\
+++skins
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\skins\
+++editor_template.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\editor_template.js
+++icons.gif
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\img\icons.gif
+++en.js
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\langs\en.js
+++default
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\skins\default\
+++ui.css
+i:{f56953b8-96aa-46ca-a249-ea4f04af0b5a}:c:\users\asus\desktop\web programming\week09-10-12\employemanager.mvc\employemanager.mvc\wwwroot\scripts\jquery-validation-1.19.3\demo\tinymce\themes\simple\skins\default\ui.css
